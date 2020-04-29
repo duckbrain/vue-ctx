@@ -1,7 +1,7 @@
 {
   "name": "vue-ctx",
-  "version": "1.0.0",
-  "description": "Project demonstrating a plugin that provides React-like context.",
+  "version": "1.0.1",
+  "description": "Vue plugin that provides React-like context.",
   "author": "duckbrain30@gmail.com",
   "main": "./vue-ctx.js",
   "scripts": {
