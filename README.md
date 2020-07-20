@@ -1,4 +1,8 @@
-# vue-ctx
+# DO NOT USE
+
+I wrote this because I could not find similar behavior in Vue, but [later found it in the docs](https://vuejs.org/v2/api/#provide-inject). The terms to look for are "provide" and "inject" in Vue.
+
+# ~~vue-ctx~~
 
 Provide implicit context to components further down the tree. Similar to [context in React](https://reactjs.org/docs/context.html). See their docs for rational.
 
